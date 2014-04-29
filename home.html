@@ -1,0 +1,28 @@
+---
+layout: default
+title: bymarkone.com
+---
+
+{% include header.html param="home" %}
+
+<div class="container">
+    <p class="lead">Home</p>
+</div>
+
+<div class="container">
+    <div style="home-artciles">
+        <div>   
+            {% for post in site.posts %}
+                <div class="col-lg-4">
+                    <div class="widget">
+                        <a href="{{post.url}}">
+                            <h3 class="jumbotron-title">{{post.title}}</h3>
+                            <p class="jumbotron-text">{{post.resume | ''}}</p>
+                            <p class="jumbotron-seemore btn btn-primary btn-lg">See more</p>
+                        </a>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

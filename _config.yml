@@ -1,0 +1,5 @@
+name: bymarkone.com
+markdown: redcarpet
+pygments: true
+relative_permalinks: true
+permalink:     pretty
