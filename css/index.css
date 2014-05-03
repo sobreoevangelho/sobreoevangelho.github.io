@@ -30,3 +30,19 @@ html, body {
 	margin: 2%;
 	float: left;
 }
+
+.old-testament {
+	width: 60%;
+	margin: 0 auto;
+	font-size: 0.9em;
+}
+
+.old-testament li {
+	line-height: 22px;
+}
+
+.old-testament .inner-container {
+	width: 45%;
+	margin: 2%;
+	float: left;
+}
