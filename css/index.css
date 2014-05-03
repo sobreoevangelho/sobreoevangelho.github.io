@@ -46,3 +46,7 @@ html, body {
 	margin: 2%;
 	float: left;
 }
+
+.home.jumbotron p {
+	font-size: 1.2em !important;
+}
