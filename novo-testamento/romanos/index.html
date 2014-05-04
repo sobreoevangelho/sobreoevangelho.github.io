@@ -3,4 +3,28 @@ layout: default
 title: sobreoevangelho.net
 ---
 
-{% include cabecalho.html param="novo-testamento" %}
+{% include cabecalho.html param="new-testament" %}
+
+<div class="container new-testament">
+    <div class="page-header">
+      <h1>Romanos</h1>
+    </div>
+    <div class="inner-container">
+    	<ul class="list-unstyled">
+            <li>Introdução</li>
+            <li><a href="esboco">Esboço</a></li>
+            <li>Guia de Estudo</li>
+            <ul>
+                {% for post in site.categories.romanos-guia-de-estudo %}
+                  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                {% endfor %}
+            </ul>
+            <li>Comentário</li>
+            <ul>
+                {% for post in site.categories.romanos-comentario %}
+                  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                {% endfor %}
+            </ul>
+        </ul>
+    </div>
+</div>
