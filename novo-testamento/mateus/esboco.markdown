@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: outline
 param: novo-testamento
 title: sobreoevangelho.net
 ---

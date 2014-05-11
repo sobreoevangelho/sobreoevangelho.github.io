@@ -3,11 +3,15 @@ html, body {
 	height: 100%;
 }
 
+body {
+	background-color: #eee7dd;
+}
+
 .main-footer {
     color: white;
     text-align: center;
     padding: 10px;
-    margin-top: 50px;
+    margin-top: 20px;
     color: #777;
 }
 
@@ -16,7 +20,6 @@ html, body {
 }
 
 .new-testament {
-	width: 60%;
 	margin: 0 auto;
 	font-size: 0.9em;
 }
@@ -32,7 +35,6 @@ html, body {
 }
 
 .old-testament {
-	width: 60%;
 	margin: 0 auto;
 	font-size: 0.9em;
 }
@@ -47,6 +49,11 @@ html, body {
 	float: left;
 }
 
-.home.jumbotron p {
-	font-size: 1.2em !important;
+.home p {
+	font-size: 1.1em !important;
+}
+
+.content {
+	background-color: #f8f8f8;
+	padding: 1%;
 }

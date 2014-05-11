@@ -1,0 +1,12 @@
+{
+  "name": "thoughtworker",
+  "version": "1.0.0",
+  "main": "css/main.css",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.1.1"
+  }
+}
