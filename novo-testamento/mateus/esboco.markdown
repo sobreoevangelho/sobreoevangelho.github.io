@@ -11,7 +11,7 @@ title: sobreoevangelho.net
   <li class="active">Esboço de Mateus</li>
 </ol>
 
-- 1:1 - 4:11. Apresentação do Cristo
+1. 1:1 - 4:11. Apresentação do Cristo
   - 1:1-25. Jesus: O Messias Prometido
     - 1:1-17. Genealogia de Jesus
     - 1:18-25. Nascimento e adoção de Jesus por José
