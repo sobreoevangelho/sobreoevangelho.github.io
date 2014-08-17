@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include cabecalho.html param="{{ include.param }}" %}
+{% include cabecalho.html param="{ include.param }" %}
 
 <div class="content container">
 
@@ -14,22 +14,7 @@ layout: default
 
 <script>
 
- 	var SOE = SOE || {};
-
- 	SOE.outline = function(elems) {
-
- 		function hideNext(tagName, next) {
- 			if (!next) return;
- 			if (next.prop('tagName') === tagName) return;
- 			next.toggleClass('hidden') && hideNext(tagName, next.next());
- 		};
-
- 		$.each(elems, function(i, obj) {
- 			$(obj).bind('click', function() {
- 				hideNext($(this).prop('tagName'), $(this).next());
- 			});
- 		});
-
- 	};($('.post').find('*'));
+  jQuery('.post ul:first').addClass('collapsibleList');
+  CollapsibleLists.apply(); 
 
 </script>

@@ -57,3 +57,28 @@ body {
 	background-color: #f8f8f8;
 	padding: 1%;
 }
+
+.collapsibleList li{
+  cursor:auto;
+}
+
+li.collapsibleListOpen{
+  list-style-image:url('/assets/button-open.png');
+  cursor:pointer;
+}
+
+li.collapsibleListClosed{
+  list-style-image:url('/assets/button-closed.png');
+  cursor:pointer;
+}
+
+li {
+  line-height: 20px;
+  min-height: 30px;
+}
+
+ul {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
