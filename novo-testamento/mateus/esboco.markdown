@@ -11,24 +11,21 @@ title: sobreoevangelho.net
   <li class="active">Esboço de Mateus</li>
 </ol>
 
-- 1:1 - 4:11. **Apresentação do Cristo**
+- 1:1 - 4:11. Apresentação do Cristo
   - 1:1-25. Jesus: O Messias Prometido
     - 1:1-17. Genealogia de Jesus
     - 1:18-25. Nascimento e adoção de Jesus por José
-
   - 2:1-23. Jesus de Nazaré: o rei dos judeus
     - 2:1-12. Os magos vem a Jerusalém
     - 2:13-15. Fuga para o Egito
     - 2:16-18. A morte das crianças
     - 2:19-23. Mudanca para Nazaré
-
   - 3:1-12. João Batista: Aquele que prepara o caminho
     - 3:1-6. Mensagem, estilo, papel e batismo
     - 3:7-10. Ponto especial: frutos de arrependimento
     - 3:11-12. Jesus, o juiz definitivo
-
   - 3:13-17. Batismo: A revelação do messias
-    -  
+    - Vazio
 
   - 4:1-11. A prova do messias
     - 4:1-2. Cenário
