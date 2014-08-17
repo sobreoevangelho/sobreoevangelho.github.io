@@ -4,8 +4,6 @@ highlighter: true
 relative_permalinks: true
 permalink:     pretty
 dl: pt
-kramdown:
-  input: GFM
 locales:
   en:
     new-testament: "New Testament"
