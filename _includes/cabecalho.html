@@ -23,7 +23,7 @@
     </div>
   </div>
 <script>
-      var id = '{{ include.param }}-selector';
+      var id = '{{ include.param | page.param }}-selector';
       document.getElementById(id).className='active';
   </script>
 </header>
