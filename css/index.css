@@ -79,3 +79,12 @@ li {
 .breadcrumb {
   font-size: 1.4em;
 }
+
+.navbar-brand {
+  padding: 0px;
+}
+
+.navbar-brand h2 {
+  margin: 0;
+  line-height: 50px;
+}

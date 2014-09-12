@@ -5,3 +5,20 @@ title: sobreoevangelho.net
 
 {% include cabecalho.html param="home" %}
 
+<div class="container content">
+
+<h3>Novidades</h3>
+
+<ul class="list-unstyled">
+
+{% for news in site.data.news_pt %}
+  
+<li>  
+  <a href="{{ news.url }} ">{{ news.title }}</a>
+</li>
+  
+{% endfor %}
+</ul>
+
+
+</div>
