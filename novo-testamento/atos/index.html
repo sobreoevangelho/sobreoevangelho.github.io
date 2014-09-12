@@ -6,25 +6,29 @@ title: sobreoevangelho.net
 {% include cabecalho.html param="new-testament" %}
 
 <div class="content container new-testament">
-    <div class="page-header">
-      <h1>Atos</h1>
-    </div>
-    <div class="inner-container">
-    	<ul class="list-unstyled">
-            <li>Introdução</li>
-            <li><a href="esboco">Esboço</a></li>
-            <li>Guia de Estudo</li>
-            <ul>
-                {% for post in site.categories.atos-guia-de-estudo %}
-                  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-                {% endfor %}
-            </ul>
-            <li>Comentário</li>
-            <ul>
-                {% for post in site.categories.atos-comentario %}
-                  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-                {% endfor %}
-            </ul>
-        </ul>
-    </div>
+
+  <ol class="breadcrumb">
+    <li><a href="/">Início</a></li>
+    <li><a href="/novo-testamento">Novo Testamento</a></li>
+    <li class="active">Atos dos Apóstolos</li>
+  </ol>
+
+  <div class="inner-container">
+    <ul class="list-unstyled">
+      <li>Introdução</li>
+      <li><a href="esboco">Esboço</a></li>
+      <li>Guia de Estudo</li>
+      <ul>
+        {% for post in site.categories.atos-guia-de-estudo %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+      <li>Comentário</li>
+      <ul>
+        {% for post in site.categories.atos-comentario %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </ul>
+  </div>
 </div>

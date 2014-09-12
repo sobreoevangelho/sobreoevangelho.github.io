@@ -77,8 +77,6 @@ li {
   min-height: 30px;
 }
 
-ul {
-  padding-top: 10px;
-  padding-bottom: 10px;
+.breadcrumb {
+  font-size: 1.4em;
 }
-
