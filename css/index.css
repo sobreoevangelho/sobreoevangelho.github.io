@@ -7,11 +7,16 @@ body {
 	background-color: #eee7dd;
 }
 
+.main-header, .main-footer {
+}
+
+.main-header .navbar {
+  margin-bottom: 0px;
+}
+
 .main-footer {
-    color: white;
     text-align: center;
     padding: 10px;
-    margin-top: 20px;
     color: #777;
 }
 
@@ -19,42 +24,12 @@ body {
 	width: 100%;
 }
 
-.new-testament {
-	margin: 0 auto;
-}
-
-.new-testament li {
-	line-height: 22px;
-}
-
-.new-testament .inner-container {
-	width: 45%;
-	margin: 2%;
-	float: left;
-}
-
-.old-testament {
-	margin: 0 auto;
-	font-size: 0.9em;
-}
-
-.old-testament li {
-	line-height: 22px;
-}
-
-.old-testament .inner-container {
-	width: 29%;
-	margin: 2%;
-	float: left;
-}
-
-.home p {
-	font-size: 1.0em !important;
+.container {
+  border-radius: 4px;
 }
 
 .content {
 	background-color: #f8f8f8;
-	padding: 1%;
 }
 
 .collapsibleList li{
@@ -87,4 +62,30 @@ li {
 .navbar-brand h2 {
   margin: 0;
   line-height: 50px;
+}
+
+.home > section {
+  margin-top: 40px;
+}
+
+.home > section > h3 {
+  margin-bottom: 40px;
+}
+
+.news li {
+  font-size: 21px;
+  font-weight: 200;
+}
+
+.new-testament .inner-container, .old-testament .inner-container {
+  font-size: 21px;
+}
+
+.new-testament .panel-body, .old-testament .panel-body {
+  font-weight: 200;
+}
+
+.about {
+  font-size: 18px;
+  font-weight: 200;
 }

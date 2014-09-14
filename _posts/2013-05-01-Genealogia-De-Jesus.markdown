@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 1:1-17. Genealogia de Jesus.
+title: A Genealogia de Jesus (Mateus 1:1-17).
+description: Mateus inicia seu livro com a genealogia de Jesus. Mas, porque? O que ele quer ensinar para seus leitores?
 categories: mateus-comentario
 ---
-
-# 1:1-17. Genealogia de Jesus.
+# Genealogia de Jesus (Mateus 1:1-17).
 
 #### Introdução.
 
