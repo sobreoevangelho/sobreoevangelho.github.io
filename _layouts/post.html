@@ -2,14 +2,20 @@
 layout: default
 ---
 
-{% include cabecalho.html param="{ include.param }" %}
+{% include cabecalho.html param=page.param %}
 
-<div class="content container">
+<div class="content container ">
+  <section class="blog">
+  
+    <h2>{{ page.title }}</h2>
+    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}</p>
+    <h4>{{ page.subtitle }}</h4>
 
-    <article class="post">
-    {{ content }}
+    <article>
+      {{ content }}
     </article>
 
+  </section>
 </div>
 
 

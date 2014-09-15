@@ -2,5 +2,37 @@
 layout: default
 title: sobreoevangelho.net
 ---
-
 {% include cabecalho.html param="blog" %}
+
+<div class="container content blog">
+  
+  <aside id="blog-lateral" class="pull-right col-md-3 col-xs-12">
+    <h5 class="well">Last blog posts</h5>
+    <ul>
+      {% for post in site.posts %}
+
+        <li>
+          <a href="{{ post.url }}">{{ post.title }} - {{ post.date | date_to_string }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </aside>
+ 
+  <section class="pull-left col-md-9 col-xs-12">
+    <div>
+      {% for post in site.posts %}
+      <article ng-repeat="art in articles">
+        <h1>{{post.title}}</h1>
+        <h4>{{post.subtitle}}</h4>
+        <div class="text-muted">
+          {{ post.date | date_to_string }}         
+          <a href="{{ post.url }}" class="fa fa-external-link"></a>
+        </div>
+        <hr/>
+        {{ post.content }}
+        <div class="spacer-2"/>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+</div>

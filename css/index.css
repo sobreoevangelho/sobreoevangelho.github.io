@@ -1,3 +1,9 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+  body {
+    font-size: 12px;
+  }
+}
+
 html, body {
 	width: 100%;
 	height: 100%;
@@ -60,8 +66,13 @@ li {
 }
 
 .navbar-brand h2 {
+  font-size: 1.5em;
+}
+
+.navbar-brand h2 {
   margin: 0;
   line-height: 50px;
+  margin-left: 5px;
 }
 
 .home > section {
@@ -73,12 +84,12 @@ li {
 }
 
 .news li {
-  font-size: 21px;
+  font-size: 1.2em;
   font-weight: 200;
 }
 
 .new-testament .inner-container, .old-testament .inner-container {
-  font-size: 21px;
+  font-size: 1.4em;
 }
 
 .new-testament .panel-body, .old-testament .panel-body {
@@ -86,6 +97,34 @@ li {
 }
 
 .about {
-  font-size: 18px;
+  font-size: 1.2em;
   font-weight: 200;
 }
+
+.book .inner-container {
+  padding: 20px;
+  font-size: 1.3em;
+  font-weight: 200;  
+}
+
+.content .post {
+  font-size: 1.2em;
+}
+
+.last-posts a {
+  color: black;
+}
+
+.last-posts a:hover {
+  text-decoration: none;
+}
+
+.last-posts .jumbotron p {
+  font-size: 1.2em;
+}
+
+.blog {
+  font-size: 1.2em; 
+}
+
+

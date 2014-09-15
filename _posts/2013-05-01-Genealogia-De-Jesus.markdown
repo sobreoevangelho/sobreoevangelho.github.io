@@ -1,11 +1,12 @@
 ---
 layout: post
-title: A Genealogia de Jesus (Mateus 1:1-17).
-description: Mateus inicia seu livro com a genealogia de Jesus. Mas, porque? O que ele quer ensinar para seus leitores?
+title: A Genealogia de Jesus (Mateus 1:1-17)
+description: Mateus inicia seu livro com a genealogia de Jesus. Mas, por quê? O que ele quer ensinar para seus leitores?
+date: 2014-09-14
+permalink: mateus/genealogia-de-jesus
+param: new-testament
 categories: mateus-comentario
 ---
-# Genealogia de Jesus (Mateus 1:1-17).
-
 #### Introdução.
 
 Ao que tudo indica (principalmente a menção de Davi no v. 1, o título de 'rei' no v. 6, o percurso pela linhagem real entre o v. 6 e o v. 11 e o fato de os dois pontos de separação entre os três períodos destacados por Mateus no v. 17 serem ambos eventos monárquivos - a saber, a constituição da monarquia em Israel e a sua dissolução), o propósito da genealogia é mostrar que Jesus Cristo procede da linhagem de Davi, cumprindo assim as condições necessárias para ser o Messias.
