@@ -11,43 +11,61 @@ title: sobreoevangelho.net
   <li class="active">Esboço de Mateus</li>
 </ol>
 
-- 1:1 - 4:11. Apresentação do Cristo
+- **Apresentação do Cristo** (1:1 - 4:11)
 
-  - 1:1-25. Jesus: O Messias Prometido
-    - 1:1-17. Genealogia de Jesus
-    - 1:18-25. Nascimento e adoção de Jesus por José
+  - **Jesus: o messias prometido** (1:1-25)
+    
+    - **Genealogia de Jesus** (1:1-17): *Jesus é Filho de Abraão e de Davi*
+  
+      <blockquote>
+        <small>Em termos de estrutura, temos o versículo 1 como introdução ressaltando a ligação entre Jesus, Davi e Abraão. Após isto (2-16) segue uma lista de nomes com a lista de antepassados de Jesus. Por fim, o versículo 17 tem a conclusão.</small>
+        <small>Abraão (1:1,2,17), Davi (1:1,6,17) e Jesus (1:1,16,17) são os nomes que se repetem nesta genealogia.</small>
+        <small>Mateus quer mostrar que era a respeito de Jesus que Deus tinha falado para Abraão e Davi quando fez Suas promessas a respeito do descendente deles (ver Genesis 22:17 e Gálatas 3:16 para Abraão; 2Samuel 9:12-13 para Davi).</small>
+        <small>Davi e Abraão são os 'pais' do Cristo, mas nem por isto maiores que ele. Ambos reconheceram que seu descendente tinha uma grandeza além da que eles podiam aspirar (João 8:56,58; Mateus 22:43-45).</small>
+        <small>A lista com os nomes dos antepassados de Jesus em si é dividida em três momentos (cf. 17): Abraão até Davi, Davi até o Exílio, o Exílio até o Cristo. A ênfase recai nos dois eventos que marcam esta divisão: o surgimento da monarquia aprovada por Deus em Israel com Davi (notar uso extraordinário da palavra 'rei' no versículo 6), e seu desaparecimento no Exílio.</small>
+        <small>Um período de catorze gerações não precisa ter um significado especial. É apenas um momento bem definido, no qual Deus agiu para realizar Seu plano. No primeiro grupo de gerações Deus constitui seu rei. No segundo, Deus acabou com a monarquia humana abrindo espaço para, no terceiro momento, constituir o reino que dura para sempre.</small>
+        <small>Sabemos pelas genealogias de Crônicas que há mais nomes entre Davi e o Exílio do que aqueles que Mateus cita aqui. E se contarmos os nomes entre o Exílio e Jesus, vemos que temos treze gerações (e não catorze como Mateus fala no versículo 17). A primeira coisa a considerar sobre isto é que Mateus conhecia Crônicas, e ele sabe que seus leitores também conhecem. Exatidão não é o ponto dele aqui. Ele deliberadamente omite alguns nomes onde ele sabe que todos saberiam que ele está fazendo isto. O interessante é que ele não sente a mesma liberdade para adicionar nomes.</small>
+        <small>Se você gosta de pensar nos números como os judeus pensavam, considere que demorou um período de tempo bem definido para Deus levantar seu rei humano, e três períodos de tempo para ele levantar o rei divino.</small>
+        <small>Mateus faz referência a cinco mulheres nesta genealogia, quatro delas antepassadas de Davi ou ligadas diretamente a ele. Cada uma delas está relacionada com algum tipo de desordem no casamento e na maneira como geraram descendentes. Tamar (3) se fingiu de prostituta para dar um filho a Judá (Gênesis 38). Raabe (5) era prostituta e estrangeira (Josué 2). Rute era estrangeira (Rute). E a mulher de Urias é a mulher com quem Davi adulterou (2Smauel 11). </small>
+        <small>Embora cada uma delas estava numa circunstância 'anormal' nos seus casamentos aos olhos de um judeu, nenhum deles jamais questionou o direito de Davi reinar por causa disto. Porque haveriam eles de desconfiar da legitimidade do direito de Jesus ao trono só porque não teve um homem envolvido na sua concepção?</small>
+        <small class="text-danger">Devemos aprender com as omissões que Mateus faz de alguns nomes no segundo período da genealogia, e com a sua recusa de inventar um décimo quarto para fechar os números no terceiro período: podemos até, quando todos estão cientes disto, selecionar apenas alguns versículos bíblicos para defender algum ponto ou ressaltar alguma aplicação que queremos trazer. Nunca, porém, jamais, podemos nos dar a liberdade de adicionar coisas que a Bíblia não ensina.</small>
+      </blockquote>
 
-  - 2:1-23. Jesus de Nazaré: o rei dos judeus
-    - 2:1-12. Os magos vem a Jerusalém
-    - 2:13-15. Fuga para o Egito
-    - 2:16-18. A morte das crianças
-    - 2:19-23. Mudanca para Nazaré
+    - **Nascimento de Jesus e sua adoção por José** (1:18-25): *Jesus é Rei dos Judeus e Filho do Espírito Santo*
 
-  - 3:1-12. João Batista: Aquele que prepara o caminho
-    - 3:1-6. Mensagem, estilo, papel e batismo
-    - 3:7-10. Ponto especial: frutos de arrependimento
-    - 3:11-12. Jesus, o juiz definitivo
+  - **Jesus de Nazaré: o rei dos judeus** (2:1-23)
 
-  - 3:13-17. Batismo: A revelação do messias
-    - Vazio
+    - **Os magos vão a Jerusalém** (2:1-12)
+    - **Fuga para o Egito** (2:13-15)
+    - **A morte das crianças** (2:16-18)
+    - **Mudança para Nazaré** (2:19-23)
 
-  - 4:1-11. A prova do messias
-    - 4:1-2. Cenário
-    - 4:3-4. Primeira tentação: autonomia
-    - 4:5-7. Segunda tentação: dúvida
-    - 4:8-10. Terceira tentação: desobediência
-    - 4:11. Conclusão
+  - **João Batista prepara o caminho** (3:1-12)
 
-- 4:1 - 20:34. O ministério na Galiléia
+    - **Mensagem, estilo, papel e batismo de João** (3:1-6)
+    - **O arrependimento exige frutos** (3:7-10)
+    - **O messias é o juiz definitivo** (3:11-12)
 
-  - 4:12-22. Introdução.
+  - **Batismo de Jesus** (3:13-17): *a revelação do messias*
+
+  - **As tentações de Jesus** (4:1-11)
+
+    - **Contexto** (4:1-2)
+    - **Primeira tentação** (4:3-4): *autonomia*
+    - **Segunda tentação** (4:5-7): *dúvida*
+    - **Terceira tentação** (4:8-10): *desobediência*
+    - **Os anjos servem Jesus** (4:11)
+
+- **O ministério na Galiléia** (4:1 - 20:34)
+
+  - **Introdução** (4:12-22)
       
-    - 4:12-17. A luz brilha nas trevas
-    - 4:18-22. Os primeiros discípulos
+    - **A luz brilha nas trevas** (4:12-17)
+    - **Os primeiros discípulos** (4:18-22)
       
-  - 4:23-25. Resumo do ministério de Jesus na Galiléia
+  - **Resumo do ministério de Jesus na Galiléia** (4:23-25)
 
-  - 5:1 - 7:29. O ensino a cerca do Reino
+  - **O ensino a cerca do reino** (5:1 - 7:29)
 
     - 5:1-2. Introdução: o ensino na montanha
     - 5:3-12. O caráter dos cidadãos do Reino: As Bem-Aventuranças.
