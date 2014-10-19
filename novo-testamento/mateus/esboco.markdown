@@ -17,6 +17,7 @@ title: sobreoevangelho.net
     
     - **Genealogia de Jesus** (1:1-17): *Jesus é Filho de Abraão e de Davi*
   
+      <ul>
       <blockquote>
         <small>Em termos de estrutura, temos o versículo 1 como introdução ressaltando a ligação entre Jesus, Davi e Abraão. Após isto (2-16) segue uma lista de nomes com a lista de antepassados de Jesus. Por fim, o versículo 17 tem a conclusão.</small>
         <small>Abraão (1:1,2,17), Davi (1:1,6,17) e Jesus (1:1,16,17) são os nomes que se repetem nesta genealogia.</small>
@@ -30,6 +31,7 @@ title: sobreoevangelho.net
         <small>Embora cada uma delas estava numa circunstância 'anormal' nos seus casamentos aos olhos de um judeu, nenhum deles jamais questionou o direito de Davi reinar por causa disto. Porque haveriam eles de desconfiar da legitimidade do direito de Jesus ao trono só porque não teve um homem envolvido na sua concepção?</small>
         <small class="text-danger">Devemos aprender com as omissões que Mateus faz de alguns nomes no segundo período da genealogia, e com a sua recusa de inventar um décimo quarto para fechar os números no terceiro período: podemos até, quando todos estão cientes disto, selecionar apenas alguns versículos bíblicos para defender algum ponto ou ressaltar alguma aplicação que queremos trazer. Nunca, porém, jamais, podemos nos dar a liberdade de adicionar coisas que a Bíblia não ensina.</small>
       </blockquote>
+      </ul>
 
     - **Nascimento de Jesus e sua adoção por José** (1:18-25): *Jesus é Rei dos Judeus e Filho do Espírito Santo*
 
